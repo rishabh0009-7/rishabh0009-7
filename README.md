@@ -47,13 +47,13 @@
 ### 🔥 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Rishabh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Rishabh's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh0009-7&show_icons=true&theme=radical&hide_border=true" alt="Rishabh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh0009-7&theme=radical&hide_border=true" alt="Rishabh's GitHub Streak" />
 </p>
 
 ---
 
 <p align="center"> 
   Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/{YOUR_GITHUB_USERNAME}/count.svg" />
+  <img src="https://profile-counter.glitch.me/rishabh0009-7/count.svg" />
 </p>
